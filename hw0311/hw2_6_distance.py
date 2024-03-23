@@ -1,3 +1,4 @@
+# hw2_6_distance.py
 import numpy as np
 import utils as u
 
